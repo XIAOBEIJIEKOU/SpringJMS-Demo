@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.imooc.iml" filepath="$PROJECT_DIR$/.idea/modules/com.imooc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.imooc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.imooc_main.iml" group="com.imooc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.imooc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.imooc_test.iml" group="com.imooc" />
+    </modules>
+  </component>
+</project>
